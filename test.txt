@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hello katy
-=======
-hello petya
->>>>>>> testing
+
+hello katy and petya
+
